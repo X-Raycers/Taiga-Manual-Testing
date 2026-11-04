@@ -77,6 +77,8 @@ The complete Software Test Report (STR) is included in this repository.
 
 Test execution evidence and additional supporting documentation are referenced in the report where applicable.
 
+Note: To access the clickable Google Drive links included in the STR, please download the PDF and open it locally.
+
 ## Future Project Extensions
 
 The Taiga QA project is planned to expand into additional testing areas:
